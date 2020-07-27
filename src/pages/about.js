@@ -29,7 +29,7 @@ const AboutPage = () => {
             https://jamstack.training
           </a>
         </p>
-        <p>Thank you for taking this course!</p>
+        <p>Course Complete!</p>
       </div>
     </Layout>
   )
